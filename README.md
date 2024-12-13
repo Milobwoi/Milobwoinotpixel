@@ -10,7 +10,7 @@ How to Use the Not Pixel Script
 
 3. Clone the repository:
 
-   git clone https://github.com/wolfxd618/notpixel.git
+   [git clone https://github.com/Milobwoi/Milobwoinotpixel.git)
 
 4. Navigate to the repository:
 
@@ -29,5 +29,5 @@ How to Use the Not Pixel Script
 
 Collaboration and Contact:
 
--If you want to collaborate, contact TG @Rehmat618
-- If you are a YouTuber, consider putting this on YouTube to help more people use it.
+-If you want to collaborate, contact TG @milobwoi
+
